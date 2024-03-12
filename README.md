@@ -14,3 +14,6 @@ You most definitely have heard about the Human Immunodeficiency Virus ([HIV](htt
 
 > Our research aims to understand why children who are HEU have these difficulties. We're using brain imaging to understand how the immune system and developing brain shape each other in a group of South African mothers with HIV and their HEU children. We have been following these families over time to see how these factors influence the children's health and development.
 
+### Cerebral malaria
+
+![Hiya!](/home/cescualito/Downloads/me.jpg)
