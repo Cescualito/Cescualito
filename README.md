@@ -29,3 +29,14 @@ Malaria is a dangerous infection caused by *Plasmodium* parasites, resulting in 
 <br>
 
 ## Life outside of science 🐋
+
+We might share hobbies such as theatre, hiking, and scuba diving. A rather niche activity that I dare you to try one day is ([human towers](https://youtu.be/xo_EKYPNjQE?feature=shared).
+
+<br>
+
+## Spoken languages 🗣
+
+Catalan and Spanish are my mother tongues, both spoken in Catalunya and España. Other than that, so far I've learned:
+🇬🇧 English
+🇧🇷 Português
+🇿🇦 isiXhosa
