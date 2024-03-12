@@ -1,15 +1,16 @@
 # Who is Cescualito?
 
-
 ## Howzit, world? Molweni nonke 😄
 
 It is an absolute pleasure meeting you. After giving it some thought, I have decided to join this intimidating platform, despite my lack of experience. I hope to learn a lot, receive helpful feedback, and have the chance to share what I am working on publicly. 
 
+<br>
 
 ## Professional career 🧠
 
 Curious by nature, I would define myself as an enthusiastic scientist who finds it essential to conceive research as **indivisible to its social context**. After a BSc in Biomedical Sciences ([UAB](https://www.uab.cat/)) and a research MSc in Neurosciences ([UvA](https://www.uva.nl/)), I am currently doing my PhD at [UCT's Neuroscience Institute](https://neuroscience.uct.ac.za/). I am mainly involved in longitudinal neuroimaging studies in resource-limited settings, to investigate **how early life factors impact brain development** in children. Overall, I am an experienced researcher in paediatric MRI, HIV, and malaria, as well as implementation research and training for capacity building in malaria-endemic countries.
 
+<br>
 
 ### Paediatric HIV exposure 👶
 
@@ -17,9 +18,14 @@ You most definitely have heard about the Human Immunodeficiency Virus ([HIV](htt
 
 > We are currently trying to understand how the **immune system** and **developing brain** shape each other in a group of South African mothers with HIV and their HEU children. We have been following these families over time to see how different factors influence the children's health and development.
 
+<br>
 
 ### Cerebral malaria 🦟
 
 Malaria is a dangerous infection caused by *Plasmodium* parasites, resulting in millions of cases and hundreds of thousands of deaths [each year](https://www.who.int/news-room/fact-sheets/detail/malaria). One of its severe forms, cerebral malaria, is defined by coma and long-term brain damage. Even after treatment, survivors may experience ongoing cognitive issues. While typically linked with one type of parasite, *Plasmodium falciparum*, there have been cases of other parasite species causing similar **severe neurological problems**.
 
 > Our group has recently shown that even in malaria patients without coma, brain changes can be detected using MRI scans. This suggests that **malaria can harm the brain**, **regardless of coma**, and may have lasting effects on survivors' quality of life.
+
+<br>
+
+## Life outside of science 🐋
