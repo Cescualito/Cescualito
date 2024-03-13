@@ -8,7 +8,7 @@ It is an absolute pleasure meeting you. After giving it some thought, I have dec
 
 ## Professional career 🧠
 
-Curious by nature, I would define myself as an enthusiastic scientist who finds it essential to conceive research as **indivisible to its social context**. After a BSc in Biomedical Sciences ([UAB](https://www.uab.cat/)) and a research MSc in Neurosciences ([UvA](https://www.uva.nl/)), I am currently doing my PhD at [UCT's Neuroscience Institute](https://neuroscience.uct.ac.za/). I am mainly involved in longitudinal neuroimaging studies in resource-limited settings, to investigate **how early life factors impact brain development** in children. Overall, I am an experienced researcher in paediatric MRI, HIV, and malaria, as well as implementation research and training for capacity building in malaria-endemic countries.
+Curious by nature, I am an enthusiastic scientist who sees research as **inseparable from its social context**. With a BSc in Biomedical Sciences ([UAB](https://www.uab.cat/)) and a research MSc in Neurosciences ([UvA](https://www.uva.nl/)), I'm currently pursuing my PhD at [UCT's Neuroscience Institute](https://neuroscience.uct.ac.za/). My focus is on longitudinal neuroimaging studies in resource-limited settings, exploring **how early life factors shape children's brain development**. Experienced in pediatric MRI, HIV, and malaria research, I have also been involved in training and implementation research to strengthen capacities in malaria-endemic countries.
 
 <br>
 
