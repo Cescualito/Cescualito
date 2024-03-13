@@ -36,7 +36,7 @@ We might share hobbies such as theatre, hiking, and scuba diving. A rather niche
 
 ## Spoken languages 🗣
 
-Catalan and Spanish are my mother tongues, both spoken in Catalunya and España. Other than that, so far I've learned: <br>
+Catalan and Spanish are my mother tongues, both spoken in Catalunya and España. Other than that, here are some languages we can communicate in: <br>
 🇬🇧 English <br>
 🇧🇷 Português <br>
 🇿🇦 isiXhosa
