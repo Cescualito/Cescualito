@@ -22,9 +22,9 @@ You most definitely have heard about the Human Immunodeficiency Virus ([HIV](htt
 
 ### Cerebral malaria 🦟
 
-Malaria is a dangerous infection caused by *Plasmodium* parasites, resulting in millions of cases and hundreds of thousands of deaths [each year](https://www.who.int/news-room/fact-sheets/detail/malaria). One of its severe forms, cerebral malaria, is defined by coma and long-term brain damage. Even after treatment, survivors may experience ongoing cognitive issues. While typically linked with one type of parasite, *Plasmodium falciparum*, there have been cases of other parasite species causing similar **severe neurological problems**.
+Malaria is a dangerous infection caused by *Plasmodium* parasites, resulting in millions of cases and hundreds of thousands of deaths [each year](https://www.who.int/news-room/fact-sheets/detail/malaria). One of its severe forms, [cerebral malaria](https://www.nejm.org/doi/full/10.1056/NEJMoa1400116), is defined by coma and long-term brain damage. Even after treatment, survivors may experience ongoing cognitive issues. While typically linked with one type of parasite, *Plasmodium falciparum*, there have been cases of other parasite species causing similar **severe neurological problems**.
 
-> Our group has recently shown that even in malaria patients without coma, brain changes can be detected using MRI scans. This suggests that **malaria can harm the brain**, **regardless of coma**, and may have lasting effects on survivors' quality of life.
+> Our group has recently shown that [even in malaria patients without coma](https://academic.oup.com/cid/article/75/1/11/6460593?login=true), brain changes can be detected using MRI scans. This suggests that **malaria can harm the brain**, **regardless of coma**, and may have lasting effects on survivors' quality of life.
 
 <br>
 
