@@ -2,7 +2,7 @@
 
 ## Howzit, world? Molweni nonke 😄
 
-It is an absolute pleasure meeting you. After giving it some thought, I have decided to join this intimidating platform, despite my lack of experience. I hope to learn a lot, receive helpful feedback, and have the chance to share what I am working on publicly. 
+It is an absolute pleasure meeting you. After giving it some thought, I have decided to join this intimidating platform. I hope to learn a lot, receive helpful feedback, and have the chance to share what I am working on publicly. 
 
 <br>
 
