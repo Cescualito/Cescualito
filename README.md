@@ -20,7 +20,7 @@ You most definitely have heard about the Human Immunodeficiency Virus ([HIV](htt
 
 We're not exactly sure why this happens, but it might be because of changes in the mother's health and immune system during pregnancy, affecting the baby's brain development. Even with treatment to prevent the spread of HIV from mother to child, these babies may still [face challenges](https://link.springer.com/article/10.1007/s11904-019-00459-0) with their immune and nervous systems.
 
-> And how are you going to find out?
+> And what are you contributing to the research field of paediatric HIV exposure?
 
 We are currently trying to understand how the **immune system** and **developing brain** shape each other in a group of South African children who are HEU. We have been following them and their mothers over time to see how different factors influence the children's health and development. You can follow the progress of our research [here](https://osf.io/sn6y9/).
 
